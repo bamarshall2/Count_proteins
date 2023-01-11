@@ -10,6 +10,6 @@ Steps to use
 in. Name it 'list.txt'
 
 2) Check that hard coded location of .faa files in count_proteins.bash is
-accurate
+accurate. Optionally, you may change name of output file
 
 3) run command "bash count_proteins.bash"
